@@ -1,3 +1,7 @@
-# ConsoleGuessingGame
+## ConsoleGuessingGame
 
-Purpose: Create a console guessing game. The idea is to automatically select a value within range and play Hot & Cold. 
+# Purpose: 
+Create a console guessing game. Using a moderator to select a value and play Hot & Cold with the player. 
+
+# Addon's 
+Track how many guesses were taken. 
